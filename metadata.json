@@ -1,0 +1,6 @@
+{
+  "name": "MaternaNest",
+  "description": "Premium pregnancy education, tracking, and maternal wellness companion.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
